@@ -51,6 +51,4 @@ These labs were completed as part of official MSc coursework and developed using
 ● Course project files
 ● Supporting datasets and materials
 
-🎓 Academic Context (Footer – Same Style as PetPal)
 
-MSc Information Systems Coursework | Artificial Intelligence & Machine Learning | Uppsala University
