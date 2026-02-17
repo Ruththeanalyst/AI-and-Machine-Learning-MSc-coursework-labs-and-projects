@@ -1,4 +1,4 @@
-About
+🐾 About the Project
 
 AI and Machine Learning coursework repository containing laboratory exercises and assignments completed as part of my MSc Information Systems studies at Uppsala University. The labs cover core AI concepts, machine learning, intelligent agents, deep learning, and LLM applications.
 
