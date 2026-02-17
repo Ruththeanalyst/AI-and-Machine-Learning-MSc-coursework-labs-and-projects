@@ -2,6 +2,7 @@
 
 AI and Machine Learning coursework repository containing laboratory exercises and assignments completed as part of my MSc Information Systems studies at Uppsala University. The labs cover core AI concepts, machine learning, intelligent agents, deep learning, and LLM applications.
 
+
 🤖 About the Course Labs
 
 These labs were completed as part of official MSc coursework and developed using:
@@ -10,6 +11,7 @@ These labs were completed as part of official MSc coursework and developed using
 ● Data-driven model analysis
 ● Hands-on implementation of intelligent systems
 ● Academic lab-based learning approach
+
 
 📚 Lab Topics Covered
 
@@ -26,6 +28,7 @@ These labs were completed as part of official MSc coursework and developed using
 ● Constraint Programming
 ● Course Project: Museum Dataset Analysis
 
+
 🛠️ Tools & Technologies
 
 ● Python
@@ -35,6 +38,7 @@ These labs were completed as part of official MSc coursework and developed using
 ● Machine Learning Models
 ● AI & ML frameworks (course-based)
 
+
 🧠 Key Learnings
 
 ● Practical understanding of Artificial Intelligence concepts
@@ -43,6 +47,7 @@ These labs were completed as part of official MSc coursework and developed using
 ● Understanding bias, fairness, and data issues in AI
 ● Exposure to deep learning and reinforcement learning
 ● Application of LLMs and AI APIs in real tasks
+
 
 📂 Repository Contents
 
